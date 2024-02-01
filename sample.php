@@ -40,7 +40,7 @@ $result = $db->query("SELECT img_eqp FROM lab_eqpdetails");
 <body>
 	<form action="borrow_process.php" method="post">
 		<?php
-		
+		fghfghgfhgffghhgfhfhgffggfhfg
 		?>
 		
 		<?php if (isset($_SESSION["displayed_studName"])) { ?>
